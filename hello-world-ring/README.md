@@ -1,10 +1,10 @@
 # hello-world-ring
 
-A Clojure library designed to ... well, that part is up to you.
+A simple hello world using ring
 
 ## Usage
 
-FIXME
+The documentation on this is here: https://github.com/ring-clojure/ring/wiki/Getting-Started
 
 ## License
 
